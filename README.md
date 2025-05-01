@@ -1,8 +1,5 @@
 <h1 align="center">Bruno carneiro da silva</h1>
 
-<p align="center">
-<a href="https://t.me/brunocofficial" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/> </a>
-</p>
 <div align="center">
 <h2 align="center">Hello there, welcome to my GitHub!</h2>
 <div align="center">
