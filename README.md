@@ -3,7 +3,7 @@
 <div align="center">
 <h2 align="center">Hello there, welcome to my GitHub!</h2>
 <div align="center">
-<p>💻 Full cycle Developer</p>
+<p>💻 Full Stack Developer</p>
 <p>🌎 From Brazil</p>
 </div>
 
